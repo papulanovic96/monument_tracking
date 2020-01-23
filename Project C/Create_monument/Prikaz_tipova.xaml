@@ -1,0 +1,39 @@
+﻿<Window x:Class="Project_C.Create_monument.Prikaz_tipova"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_C.Create_monument"
+        mc:Ignorable="d"
+        Icon="C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\bin\images\IPlogo1.png"
+        Title="Tip" Height="217" Width="450" Background="#FF252526" ResizeMode="NoResize">
+    <Grid Margin="20,23,20,20">
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="380" MinWidth="380"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="prikazTipovaDataGrid" ItemsSource="{Binding Path=Prikaz_tipa}" IsReadOnly="True" ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Visible" Margin="10,0,0,1" AutoGenerateColumns="False" IsSynchronizedWithCurrentItem="True" Background="#FF252526" Foreground="Black" BorderBrush="#FF0D3155" FontFamily="Century Gothic" FontSize="16" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="369">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Oznaka" Binding="{Binding Oznaka_Tipa}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Ime" Binding="{Binding Ime_Tipa}"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Ikonica">
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Slika}"></Image>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Opis" Binding="{Binding Opis_Tipa}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
+    
+    
+    

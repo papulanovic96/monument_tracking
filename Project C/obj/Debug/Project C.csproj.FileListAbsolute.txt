@@ -1,0 +1,86 @@
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\bin\Debug\Project C.exe.config
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\bin\Debug\Project C.exe
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\bin\Debug\Project C.pdb
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C.csprojResolveAssemblyReference.cache
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\MainWindow.g.cs
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\App.g.cs
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C_MarkupCompile.cache
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C_MarkupCompile.lref
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\MainWindow.baml
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C.g.resources
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project_C.Properties.Resources.resources
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C.csproj.GenerateResource.Cache
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C.exe
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Project C.pdb
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Create_dialog.g.cs
+c:\users\papulanovic\documents\visual studio 2015\Projects\Project C\Project C\obj\Debug\Create_dialog.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\bin\Debug\Project C.exe.config
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C.exe
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C.pdb
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C.csprojResolveAssemblyReference.cache
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\MainWindow.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\App.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C_MarkupCompile.cache
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C_MarkupCompile.lref
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\bin\Debug\Project C.exe
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\bin\Debug\Project C.pdb
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\MainWindow.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C.g.resources
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project_C.Properties.Resources.resources
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C.csproj.GenerateResource.Cache
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Create_dialog.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Create_dialog.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Help\Help_dialog.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Help\Help_dialog.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Etikete.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Tip_spomenika.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Etikete.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Tip_spomenika.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C.csproj.CoreCompileInputs.cache
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_etiketa.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_etiketa.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_tipova.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_tipova.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_spomenika_na_mapi.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_spomenika_na_mapi.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\DemoOrMain.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\DemoOrMain.baml
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Help\HelpViewer.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Project C_Content.g.cs
+C:\Users\Papulanovic\Desktop\Project C\Project C\Project C\obj\Debug\Help\HelpViewer.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\bin\Debug\Project C.exe.config
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\bin\Debug\Project C.exe
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\bin\Debug\Project C.pdb
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C.csprojAssemblyReference.cache
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_etiketa.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Create_dialog.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Etikete.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_etiketa.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_spomenika_na_mapi.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_tipova.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Tip_spomenika.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\DemoOrMain.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Help\HelpViewer.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Help\Help_dialog.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\MainWindow.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\App.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C_Content.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C_MarkupCompile.cache
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C_MarkupCompile.lref
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Create_dialog.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Etikete.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_spomenika_na_mapi.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Prikaz_tipova.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Create_monument\Tip_spomenika.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\DemoOrMain.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Help\HelpViewer.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Help\Help_dialog.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\MainWindow.baml
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C.g.resources
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project_C.Properties.Resources.resources
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C.csproj.GenerateResource.cache
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C.csproj.CoreCompileInputs.cache
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C.exe
+C:\Users\Branislav\Desktop\my_files\year_3_projects\Project C\Project C\Project C\obj\Debug\Project C.pdb

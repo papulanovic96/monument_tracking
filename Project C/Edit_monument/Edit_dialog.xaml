@@ -1,0 +1,16 @@
+﻿<Window x:Class="Project_C.Edit_monument.Edit_dialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_C.Edit_monument"
+        mc:Ignorable="d"
+        Title="Edit_dialog" Height="400" Width="700">
+    <Grid>
+        <GroupBox x:Name="groupBox" Header="Spomenik" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="350" Width="248">
+            <TextBlock>Oznaka:</TextBlock>
+        </GroupBox>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="263,10,0,0" VerticalAlignment="Top" Height="350" Width="419"/>
+
+    </Grid>
+</Window>
